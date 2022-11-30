@@ -9,13 +9,13 @@
 
 ## Live Demo
 
-[Live Demo Link](https://kanzatahreem.github.io/Microverse-Trials-Landing-Page/)
+[Live Demo Link](https://kanzatahreem.github.io/MT-Landing-Page/)
 
 ## Getting Started
 
 To get a local copy, run the fllowing command.
 
-- `git clone git@github.com:KanzaTahreem/Microverse-Trials-Landing-Page.git`
+- `git clone https://github.com/KanzaTahreem/MT-Landing-Page`
 
 ### Usage
 
